@@ -1,0 +1,23 @@
+h2 {
+text-align: center;
+}
+
+
+.top5 {
+  margin-top: 20px;
+}
+
+.align-right{
+  text-align: right;
+}
+
+
+.footer, .footer a {
+  min-height: 100px;
+  background-color: #222222;
+  color: #cccccc;
+  text-decoration: none;
+  font-size: 12px;
+  text-align: center;
+  padding-top: 40px;
+}
